@@ -1,0 +1,1 @@
+# https://www.geeksforgeeks.org/ruby-operators/#Logical%20Operators See this link
